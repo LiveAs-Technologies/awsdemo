@@ -1,0 +1,12 @@
+{% extends "index.html" %}
+
+{% block content %}
+
+<h5>APP CEO LIST ARE </h5>
+<ul>
+{% for obj in app_ceos %}
+	<li>{{ obj.name }}</li>
+{% endfor %}
+</ul>
+
+{% endblock content %}

@@ -1,0 +1,489 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cod",
+				"code_new"
+			],
+			[
+				"ran",
+				"randint"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"w3-c",
+				"w3-center"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"liveas",
+				"liveastechsolutions"
+			],
+			[
+				"my",
+				"myObj"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"me",
+				"message2"
+			],
+			[
+				"m",
+				"message1"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"next",
+				"next_followup_date"
+			],
+			[
+				"follo",
+				"follow_up_date"
+			],
+			[
+				"date_a",
+				"date_approached"
+			],
+			[
+				"row",
+				"row1"
+			],
+			[
+				"employee",
+				"employee_records"
+			],
+			[
+				"mob",
+				"mobile_no"
+			],
+			[
+				"empi",
+				"empid"
+			],
+			[
+				"em",
+				"empid"
+			],
+			[
+				"Du",
+				"Duedate"
+			],
+			[
+				"Ac",
+				"Actiontobetaken"
+			],
+			[
+				"aCT",
+				"Actiontobetaken"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"c",
+				"clickButton"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"Sta",
+				"Status"
+			],
+			[
+				"Tas",
+				"Taskno"
+			],
+			[
+				"T",
+				"Taskno"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"curr",
+				"current_date"
+			],
+			[
+				"D",
+				"Duedate"
+			],
+			[
+				"Dep",
+				"Department"
+			],
+			[
+				"toadd",
+				"toaddmail"
+			],
+			[
+				"Follow",
+				"Follow_Up"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"mo",
+				"mobile_no"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"w3-pad",
+				"w3-padding-32"
+			],
+			[
+				"cus",
+				"customers"
+			],
+			[
+				"conect",
+				"connect_db"
+			],
+			[
+				"font-",
+				"font-weight\tproperty"
+			],
+			[
+				"w3-padd",
+				"w3-padding-small"
+			],
+			[
+				"ju",
+				"justify-all\ttext-align"
+			],
+			[
+				"alig",
+				"text-align\tproperty"
+			],
+			[
+				"w3",
+				"w3-container"
+			],
+			[
+				"w3-",
+				"w3-sand"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"head",
+				"header\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package cont",
+				"Package Control: Install Package"
+			],
+			[
+				"package contro",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/LiveAs/LiveAs technologies/Projects/Projects/Open/App CEO/Python_App/mysite/mysite/settings.py",
+		"/F/LiveAs/LiveAs technologies/Projects/Projects/Open/App CEO/Python_App/mysite/mysite/urls.py",
+		"/F/LiveAs/LiveAs technologies/Projects/Projects/Open/App CEO/Python_App/mysite/templates/code_new.html",
+		"/F/LiveAs/LiveAs technologies/Projects/Projects/Open/App CEO/Python_App/mysite/appceo/views.py",
+		"/F/LiveAs/LiveAs technologies/Projects/Projects/Open/App CEO/Python_App/mysite/templates/index.php",
+		"/F/LiveAs/LiveAs technologies/Projects/Projects/Open/App CEO/Python_App/mysite/appceo/__pycache__/__init__.cpython-37.pyc",
+		"/F/LiveAs/LiveAs technologies/Projects/Projects/Closed/mypctechie/Project Delivery & BackUp/do.php",
+		"/F/LiveAs/LiveAs technologies/Projects/Projects/Open/App CEO/Python_App/mysite/templates/index.html",
+		"/F/LiveAs/LiveAs technologies/Projects/Projects/Open/App CEO/Python_App/mysite/templates/navigation_pctechie.php",
+		"/F/LiveAs/LiveAs technologies/Projects/Projects/Open/App CEO/index.php",
+		"/F/LiveAs/LiveAs technologies/Projects/Projects/Open/App CEO/Python_App/mysite/manage.py",
+		"/F/LiveAs/LiveAs technologies/Projects/Projects/Open/ICICI ORM Activity/writer.py",
+		"/F/LiveAs/LiveAs technologies/Projects/Projects/Open/ICICI ORM Activity/pull_sample.py",
+		"/F/LiveAs/LiveAs technologies/Projects/mypctechie/pctechie.html",
+		"/F/LiveAs/LiveAs technologies/Projects/mypctechie/navigation_pctechie.php",
+		"/F/Systems Engineering/Software/Languages/PHP/kho_cust_data.php",
+		"/C/xampp/htdocs/connecting.php",
+		"/C/xampp/htdocs/kho_cust_data.php",
+		"/F/Systems Engineering/Software/Languages/PHP/nature.php",
+		"/F/LiveAs/LiveAs technologies/Projects/Php/kho_cust_data.php",
+		"/F/LiveAs/LiveAs technologies/Projects/Php/follow_loader.html",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/SublimeServer.sublime-settings",
+		"/F/LiveAs/Hair Oil Ver 2.0/DBBACKUOS/sheet1 (1).php",
+		"/F/Systems Engineering/Software/Languages/PHP/test2.py",
+		"/F/Systems Engineering/Software/Languages/PHP/test1.php",
+		"/C/Users/user/Desktop/DESKTOP/datainsertion/LOGIN/my try/connecting.php",
+		"/F/LiveAs/LiveAs technologies/Website/DB/liveas_in_db1.bak",
+		"/C/Users/user/Downloads/phpMyAdmin-4.8.5-all-languages/index.php",
+		"/F/Systems Engineering/Software/Languages/PHP/custmail.html",
+		"/F/Systems Engineering/Software/Languages/PHP/follow.php",
+		"/F/Systems Engineering/Software/Languages/PHP/automate.php",
+		"/F/Systems Engineering/Software/Languages/PHP/webhook.php",
+		"/F/Systems Engineering/Software/Languages/PHP/test.php",
+		"/F/Systems Engineering/Software/Languages/PHP/dropdown.php",
+		"/F/Systems Engineering/Software/Languages/PHP/cussearch.php",
+		"/F/Systems Engineering/Software/Languages/PHP/navigation.php",
+		"/F/Systems Engineering/Software/Languages/PHP/projects.php",
+		"/F/Systems Engineering/Software/Languages/PHP/navigation.html",
+		"/F/Systems Engineering/Software/Languages/PHP/taskauto.php",
+		"/F/Systems Engineering/Software/Languages/PHP/curl1.php",
+		"/F/Systems Engineering/Software/Languages/PHP/final.php",
+		"/F/Systems Engineering/Software/Languages/PHP/mailconnect.php",
+		"/F/Systems Engineering/Software/Languages/PHP/phpmail.php",
+		"/F/Systems Engineering/Software/Languages/PHP/mailsms.php",
+		"/F/Systems Engineering/Software/Languages/PHP/automate1.php",
+		"/C/Users/user/Desktop/DESKTOP/datainsertion/LOGIN/my try/testing2.php",
+		"/C/xampp/htdocs/final.php",
+		"/F/Systems Engineering/Software/Languages/PHP/signout1.php",
+		"/C/xampp/htdocs/nature.php",
+		"/F/Systems Engineering/Software/Languages/PHP/followup_db.php",
+		"/F/Systems Engineering/Software/Languages/PHP/gethint.php",
+		"/F/Systems Engineering/Software/Languages/PHP/update_recruits.php",
+		"/F/LiveAs/LiveAs technologies/Projects/mypctechie/indexold.html",
+		"/F/Systems Engineering/Software/Languages/PHP/updatetask.php",
+		"/C/Users/user/Desktop/DESKTOP/datainsertion/LOGIN/my try/category.php",
+		"/C/Users/user/Desktop/DESKTOP/datainsertion/LOGIN/my try/welcome2.php",
+		"/C/Users/user/Desktop/DESKTOP/datainsertion/LOGIN/my try/Userlogin.php",
+		"/C/Users/user/Desktop/DESKTOP/datainsertion/LOGIN/my try/login.php",
+		"/C/Users/user/Desktop/DESKTOP/datainsertion/LOGIN/my try/open.php",
+		"/C/Users/user/Desktop/DESKTOP/datainsertion/LOGIN/my try/changemob.php",
+		"/C/Users/user/Desktop/DESKTOP/datainsertion/LOGIN/my try/love.php",
+		"/F/Systems Engineering/Software/Languages/PHP/checkmyphp.php",
+		"/C/Users/user/Desktop/phpmailer/PHPMailer-master/src/PHPMailer.php",
+		"/F/Systems Engineering/Software/Languages/PHP/sqloutput.html",
+		"/C/Users/user/Desktop/phpmailer/PHPMailer-master/src/SMTP.php",
+		"/F/Systems Engineering/Software/Languages/PHP/PHPMailerAutoload.PHP",
+		"/F/Systems Engineering/Software/Languages/PHP/tatdisplay.php",
+		"/F/Systems Engineering/Software/Languages/PHP/index.php",
+		"/F/Systems Engineering/Software/Languages/PHP/invoicegenerator.php",
+		"/F/Systems Engineering/Software/Languages/PHP/commander.php",
+		"/F/Systems Engineering/Software/Languages/PHP/update_projects.php",
+		"/F/Systems Engineering/Software/Languages/PHP/tech_recruits.php",
+		"/F/Systems Engineering/Software/Languages/PHP/employee_records.php",
+		"/F/Systems Engineering/Software/Languages/PHP/learn.php",
+		"/F/Systems Engineering/Software/Languages/PHP/study2.html",
+		"/F/Systems Engineering/Software/Languages/Python/googlelink.py",
+		"/F/Systems Engineering/Software/Languages/PHP/backup.php",
+		"/F/Systems Engineering/Software/Languages/PHP/cussearch.html",
+		"/F/Systems Engineering/Software/Languages/PHP/insertion.html",
+		"/F/Systems Engineering/Software/Languages/PHP/follow_loader.html",
+		"/F/Systems Engineering/Software/Languages/Python/Machine Learning/pyhtm.html",
+		"/F/Systems Engineering/Software/Languages/Python/Misc/revision.py",
+		"/F/LiveAs/LiveAs technologies/Projects/mypctechie/index.html",
+		"/F/Systems Engineering/Software/Languages/Javascript/index.html",
+		"/F/Systems Engineering/Software/Languages/Python/Machine Learning/try.py",
+		"/F/Systems Engineering/Software/Languages/Python/Machine Learning/study.py",
+		"/F/Systems Engineering/Software/Languages/Python/Machine Learning/sss.pih.py",
+		"/F/Systems Engineering/Software/Languages/Python/Machine Learning/tym.pih.html",
+		"/F/Systems Engineering/Software/Languages/Python/Machine Learning/pyhtm",
+		"/F/LiveAs/LiveAs technologies/Projects/mypctechie/index",
+		"/F/Systems Engineering/Software/Languages/Python/DATA/test.py",
+		"/F/Systems Engineering/Software/Languages/Python/DATA/pdftotext.py",
+		"/F/Systems Engineering/Software/Languages/Python/DATA/XpdfReader-win32/pdftext.py",
+		"/F/Systems Engineering/Software/Languages/Python/DATA/pdftotext",
+		"/F/LiveAs/LiveAs technologies/Website/Advt Website/mysite/templates/page2.html",
+		"/F/LiveAs/LiveAs technologies/Website/Advt Website/mysite/static/conectdb.py",
+		"/F/LiveAs/LiveAs technologies/Website/Advt Website/mysite/templates/designs.html",
+		"/F/LiveAs/LiveAs technologies/Website/Advt Website/mysite/mysite/urls.py",
+		"/F/LiveAs/LiveAs technologies/Website/Advt Website/mysite/polls/models.py",
+		"/F/LiveAs/LiveAs technologies/Website/Advt Website/mysite/mysite/settings.py",
+		"/F/LiveAs/LiveAs technologies/Website/Advt Website/mysite/polls/views.py",
+		"/F/LiveAs/LiveAs technologies/Website/Advt Website/mysite/polls/apps.py",
+		"/F/LiveAs/LiveAs technologies/Website/Advt Website/mysite/templates/index.html",
+		"/F/LiveAs/LiveAs technologies/Website/Advt Website/mysite/templates/thanksmail.html",
+		"/F/LiveAs/LiveAs technologies/Website/Advt Website/mysite/templates/ideas.html",
+		"/F/LiveAs/LiveAs technologies/Website/Advt Website/mysite/templates/just.html",
+		"/F/LiveAs/LiveAs technologies/Website/Advt Website/mysite/templates/esta.html",
+		"/F/LiveAs/LiveAs technologies/Website/Advt Website/mysite/templates/index - Copy.html",
+		"/F/LiveAs/LiveAs technologies/Website/Advt Website/mysite/static/mailme.py",
+		"/F/Systems Engineering/Software/Languages/Python/Misc/getpost.py",
+		"/F/Systems Engineering/Software/Languages/Python/Misc/mail2.py",
+		"/F/Systems Engineering/Software/Languages/Python/Misc/mail.py",
+		"/F/LiveAs/LiveAs technologies/Website/Advt Website/mysite/manage.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"3",
+			"os.",
+			"static"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 167.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
